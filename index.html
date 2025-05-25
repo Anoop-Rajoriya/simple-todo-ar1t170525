@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Todo's</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+    <script src="./script.js" defer></script>
+  </head>
+  <body>
+    <header>
+      <h1>Todo's</h1>
+      <span class="layer"></span>
+    </header>
+    <main>
+      <div class="main-head">
+        <h2>create task</h2>
+        <button id="task-add-button">+ add task</button>
+      </div>
+      <textarea placeholder="create task"></textarea>
+      <p id="textarea-error" class="textarea-error">please enter text before adding!</p>
+      <div id="tasks-container" class="tasks-list">
+        <span id="empty-tasks-label">Ooops nothing found!</span>
+      </div>
+    </main>
+    <footer>
+      <span>© Dev. By Anoop Rajoriya | ar1t170525</span>
+      <div class="author-links">
+        <a href="#"><img src="./img/github.svg" alt="" /></a>
+        <a href="#"><img src="./img/linkedin.svg" alt="" /></a>
+        <a href="#"><img src="./img/twitter.svg" alt="" /></a>
+      </div>
+    </footer>
+  </body>
+</html>
