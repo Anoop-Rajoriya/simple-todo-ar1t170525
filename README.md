@@ -1,4 +1,4 @@
-# Simple todo web app
+# Simple todo web app ([Live](https://anoop-rajoriya.github.io/simple-todo-ar1t170525/))
 
 ## Description
 
@@ -18,4 +18,4 @@ A simple todo app build using plain html, css and javascript. it use web localst
 
 - [Anoop Rajoriya](https://github.com/Anoop-Rajoriya)
 - [LinkedIn](https://www.linkedin.com/in/anoop-rajoriya-a366b133a/)
-- [Twitter-X]([https://twitter.com/anoop_rajoriya0)
+- [Twitter-X](https://twitter.com/anoop_rajoriya0)
