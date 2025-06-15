@@ -1,4 +1,4 @@
-# Simple todo web app ([Live](https://anoop-rajoriya.github.io/simple-todo-ar1t170525/))
+# Simple todo web app ([Live](https://anoop-rajoriya.github.io/simple-todo/))
 
 ## Description
 
